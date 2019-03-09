@@ -1,0 +1,132 @@
+* { padding: 0; margin: 0; border: 0; }
+
+@media (max-width: 2300px) and (min-width: 1000px) { 
+	.container {
+	display: inline-block;
+	background-color: #ffffff;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+}
+@media (max-width: 1000px) and (min-width: 700px) { 
+	.container {
+	display: inline-block;
+	background-color: #ffffff;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+}
+@media (max-width: 700px) { 
+	.container {
+	display: inline-block;
+	background-color: #ffffff;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+}
+}
+
+.cup {
+	display: block;
+	position: relative;
+	left: 5%;
+	padding: 5%;
+	height: 10em;
+	text-align: center;
+}
+.text.titlle {
+	display: block;
+	position: relative;
+	left: 5%;
+	padding: 5%;
+	height: 2.5em;
+	font-family: sans-serif;
+	font-size: 2.5em;
+	text-align: center;
+	color: #607f91;
+}
+
+.boxes {
+	display:inline-block;
+	width: 80%;
+	margin-left: 10%;
+	padding: 5%;
+	background-color: #ffffff;
+}
+.box-number1 {
+	height: 10em;
+	margin: auto;
+}
+.box-1 {
+   width: 70%;
+   height: 45%;
+   border-top-right-radius: 120px;
+	box-shadow: 0.2em -0.1em 1.6em; color: #607f91;
+}
+.text-header {
+	position: relative;
+	top: 15%;
+	left: 32%;
+	width: 80%;
+	font: serif;
+	font-size: 2em;
+	color: #607f91;
+}
+.box-2 {
+   width: 100%;
+   height: 60%;
+   background-color:white;
+   border-bottom-left-radius: 120px; border-top-right-radius:60px;
+   border-bottom-right-radius:60px;
+	box-shadow: 0.1em 0.6em 1.6em -0.3em; color: #607f91;
+}
+.text-value {
+	position: relative;
+	left: 22%;
+	width: 70%;
+	font-size: 1.2em;
+	color: #4d5b66;
+}
+.fa-star {
+	position: relative;
+	left: 22%;
+	margin-top: 0.5em;
+	padding: 0.1em;
+	font-size: 1em;
+	color:#FFD700;
+}
+.foto {
+	display: block;
+	position: relative;
+	top: -103%;
+   margin-left: 1em;
+}
+.circle {
+	position: absolute;
+	font-size: 2em;
+	top: 72%;
+	left: 9%;
+	color: #607f91;
+}
+.text-number {
+	position: absolute;
+	left: 28%;
+	bottom: 6%;
+	font-size: 0.8em;
+	color: #FFFFFF;
+}
+.box-number2 {
+	height: 10em;
+	margin-bottom: 2em;
+	margin-top: 2em;
+}
+.box-number3 {
+	height: 10em;
+}
+
+
+
+
+
+
+
+
